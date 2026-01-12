@@ -1835,10 +1835,9 @@ vendor/firmware/vpu33_4v.mbn
 vendor/firmware/vpu33_4v_unsigned.mbn
 
 # WiFi
-odm/etc/wifi/kiwi/regdb.bin
 odm/etc/wifi/qca6750/bdwlan.elf
 odm/etc/wifi/qca6750/regdb.bin
-odm/etc/wifi/regdb.bin
+odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
 
 # Haptic firmware
 odm/firmware/260ms_RTP_308.bin
