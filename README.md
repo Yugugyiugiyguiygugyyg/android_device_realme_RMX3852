@@ -23,4 +23,3 @@ Display | LTPO AMOLED, 6.78 inches, 1264 x 2780 pixels
 
 ## What doesn't work
 - Unlock the phone via FOD don't working if the screen is off
-- Our WiFi's module (qca6750) doesn't correctly work with WiFi 6, same at the stock ROM of every oplus devices
