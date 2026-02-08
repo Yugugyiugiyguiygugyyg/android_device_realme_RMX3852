@@ -14,7 +14,6 @@ featenabler.img;AB
 hyp.img;AB
 imagefv.img;AB
 keymaster.img;AB
-modem.img;AB
 oplus_sec.img;AB
 oplusstanvbk.img;AB
 qupfw.img;AB
@@ -26,3 +25,6 @@ uefisecapp.img;AB
 xbl.img;AB
 xbl_config.img;AB
 xbl_ramdump.img;AB
+
+#modem - from RMX3851_16.0.2.402(RU)
+modem.img;AB|bfbb0e68fabe5bb55ab6dda2146c65831a8fb04f

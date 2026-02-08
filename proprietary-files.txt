@@ -1834,10 +1834,12 @@ vendor/firmware/vpu30_2v_unsigned.mbn
 vendor/firmware/vpu33_4v.mbn
 vendor/firmware/vpu33_4v_unsigned.mbn
 
-# WiFi
-odm/etc/wifi/qca6750/bdwlan.elf
-odm/etc/wifi/qca6750/regdb.bin
-odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini
+# WiFi - from RMX3851_16.0.2.402(RU)
+odm/etc/wifi/qca6750/bdwlan.b0e|274f833d7a87ff3eec4dc3622a1ffa5d4c57ccc5
+odm/etc/wifi/qca6750/bdwlan.b0i|30c8aefc61a44ee601248a36a1b8cdbfe60a358b
+odm/etc/wifi/qca6750/bdwlan.elf|07d4ec3dbda5a749ec5ffcaa66c8a8f5f711c398
+odm/etc/wifi/qca6750/regdb.bin|69814de2d597783cd093673753dbee2bed46bc7a
+odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini|4f2f7641b17c2f6928a8fad8dc389fe4d6e57f96
 
 # Haptic firmware
 odm/firmware/260ms_RTP_308.bin
