@@ -20,6 +20,11 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 # Disable adb secure
 WITH_ADB_INSECURE := true
 
+# Avium
+AVIUM_MAINTAINER := MisterZtr
+AVIUM_SETTINGS_SOC_MODEL_NAME := Snapdragon 8s Gen3
+AVIUM_SETTINGS_DEVICE_CODENAME := realme GT neo6
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=realme/RMX3852/RE5C46L1:16/UKQ1.231108.001/U.3b228b2-19715c6-19710ea:user/release-keys \
     DeviceName=RE5C46L1 \

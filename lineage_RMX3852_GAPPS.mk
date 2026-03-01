@@ -9,3 +9,4 @@ PRODUCT_MODEL := RMX3852
 
 # GAPPS
 $(call inherit-product-if-exists, vendor/gapps/arm64/arm64-vendor.mk)
+WITH_GMS := true
