@@ -33,7 +33,8 @@ PRODUCT_PACKAGES += \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
     OPlusSystemUIResTarget \
-    OPlusWifiResTarget
+    OPlusWifiResTarget \
+    UpdaterResRMX3852
 
 # Regional properties
 PRODUCT_COPY_FILES += \
