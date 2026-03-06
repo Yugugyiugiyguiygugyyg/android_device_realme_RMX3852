@@ -1,0 +1,10 @@
+<!--
+     Copyright (C) 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="org.evolution.updater.overlay.RMX3852">
+    <overlay android:targetPackage="org.evolution.updater"
+             android:isStatic="true"
+             android:priority="700"/>
+</manifest>
